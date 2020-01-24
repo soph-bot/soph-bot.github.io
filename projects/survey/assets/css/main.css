@@ -1,0 +1,16 @@
+body{
+	background-color: lightblue;
+}
+
+.question-container{
+	background-color: white;
+	padding: 30px;
+}
+
+.question{
+	font-family:helvetica;
+}
+
+.answer{
+	font-size: 30px;
+}
