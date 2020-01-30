@@ -1,0 +1,14 @@
+body {
+	background-color: lightblue;
+}
+
+img {
+  /*height: 500px;*/
+  max-width: 50%;}
+
+
+.special-img {
+  position: absolute;
+  top: 100px;
+  left:30px;
+}
