@@ -1,0 +1,30 @@
+body {background-color:grey; }
+
+.oval {
+  width: 160px;
+  height: 80px;
+  background: blue;
+  border-radius: 50%;
+}
+.ovaltwo {
+  display:flex;
+  justify-content:flex-end;
+  width: 160px;
+  height: 80px;
+  background: yellow;
+  border-radius: 50%;
+}
+.ovalthree {
+  display:flex;
+  justify-content:center;
+  width: 160px;
+  height: 80px;
+  background: white;
+  border-radius: 50%;
+}
+.oval-container{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:green;
+	padding: 20px;
