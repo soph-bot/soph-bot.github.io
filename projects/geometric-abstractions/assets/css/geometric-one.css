@@ -3,7 +3,7 @@ body {background-color:grey; }
 .oval {
   width: 160px;
   height: 80px;
-  background: blue;
+  background: #a8dba4;
   border-radius: 50%;
 }
 .ovaltwo {
@@ -11,7 +11,7 @@ body {background-color:grey; }
   justify-content:flex-end;
   width: 160px;
   height: 80px;
-  background: yellow;
+  background: #f7c457;
   border-radius: 50%;
 }
 .ovalthree {
@@ -19,12 +19,12 @@ body {background-color:grey; }
   justify-content:center;
   width: 160px;
   height: 80px;
-  background: white;
+  background: #d69089;
   border-radius: 50%;
 }
 .oval-container{
 	display:flex;
 	justify-content:center;
 	align-items:center;
-	background-color:green;
+	background-color:#ffe08a;
 	padding: 20px;
