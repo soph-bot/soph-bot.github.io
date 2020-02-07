@@ -2,9 +2,38 @@
 <html>
 <head>
 	  <link rel="stylesheet" type="text/css" href="assets/css/geometric-one.css">
-	<title>geometric abstractions</title>
+	<title>pastel stoplight</title>
 </head>
 <body>
+
+<style>
+	argh-my-eyes {
+    0%   { background-color: #a8dba4; }
+    49% { background-color: #a8dba4; }
+    50% { background-color: #d69089; }
+    99% { background-color: #d69089; }
+    100% { background-color: #a8dba4; }
+  }
+  @-moz-keyframes argh-my-eyes {
+    0%   { background-color: #a8dba4; }
+    49% { background-color: #a8dba4; }
+    50% { background-color: #d69089; }
+    99% { background-color: #d69089; }
+    100% { background-color: #a8dba4; }
+  }
+  @keyframes argh-my-eyes {
+    0%   { background-color: #a8dba4; }
+    49% { background-color: #a8dba4; }
+    50% { background-color: #d69089; }
+    99% { background-color: #d69089; }
+    100% { background-color: #a8dba4; }
+  }
+  body {
+  -webkit-animation: argh-my-eyes 1s infinite;
+  -moz-animation:    argh-my-eyes 1s infinite;
+  animation:         argh-my-eyes 1s infinite;
+}
+</style>
 	<div class="oval-container">
 <div class="oval"></div>
 <div class="ovaltwo"></div>

@@ -1,0 +1,41 @@
+body{background-color:#f7dcda;}
+    
+
+.square1 {
+ width: 200px;
+ height: 200px;
+ background: #9e342c;
+ border: 20px solid black;
+ margin: 200px 300px;}
+
+ .rectangle1 {
+ width: 100px;
+ height: 300px;
+ background: #80abbf;
+ border: 20px solid black;
+ margin: -540px 540px;}
+
+
+.square2 {
+ width: 70px;
+ height: 70px;
+ background: #f7f0f0;
+ border: 20px solid black;
+ margin: 200px 430px;}
+
+ .rectangle2 {
+ width: 200px;
+ height: 70px;
+ background: #2a4c5c;
+ border: 20px solid black;
+ margin: 230px 540px;}
+
+  .square3 {
+ width: 70px;
+ height: 70px;
+ background: #75231d;
+ border: 20px solid black;
+ margin: -450px 670px;}
+
+
+  
