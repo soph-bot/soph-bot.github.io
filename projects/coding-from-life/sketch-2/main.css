@@ -20,3 +20,68 @@ body {
 }
 
 /* Your CSS goes here */
+
+.table {
+      width: 30vw;
+      height: 35vw;
+      transform: skew(-40deg);
+      background: #d1c0be;
+      position:absolute;
+      margin: 15vw 25vw;
+    }
+
+.tableside1 {
+      width: 5vw;
+      height: 35vw;
+      transform: skew(-40deg);
+      background: #ab9d9b;
+      position:absolute;
+      top:15vw; 
+      left:54.9vw;
+    }
+
+.tableside2 {
+      width: 30vw;
+      height: 2vw;
+      transform: skew(10deg);
+      background: #877d7b;
+      position:absolute;
+      top:50vw;
+      left:10.45vw;
+    }
+
+.book1{
+    width:6.5vw;
+    height:13vw;
+    background: #f2eeed;
+    position:absolute;
+    top:8vw;
+    left:48vw;
+    }
+
+  .topspine{
+      width:3vw;
+      height:.5vw;
+      background: red;
+      position:absolute;
+      top:0vw;
+      left:2vw;
+      }
+
+  .leftcover{
+    width:.5vw;
+    height:12vw;
+    background: red;
+    position:absolute;
+    top:1vw;
+    left:0vw;
+    }
+  
+  .rightcover{
+    width:.5vw;
+    height:12vw;
+    background: black;
+    position:absolute;
+    top:1vw;
+    left:6vw;
+    }
