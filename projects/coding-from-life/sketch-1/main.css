@@ -49,7 +49,7 @@ body {
     }
   
 .book1{
-    border-bottom: 100px solid #f2eeed;
+    border-bottom: 100px solid #deddd5;
     border-left: 6px solid transparent;
     border-right: 10px solid transparent;
     height: 0;
@@ -59,10 +59,226 @@ body {
       left:500px;
     }
 
-    .topspine{
-    	width: 200px;
+    .rightcover{
+    	width: 10px;
       height: 100px;
-      background: ;
+      background: #d9d3c3;
+      position:absolute;
+    top:0px;
+      left:50px;
     }
+
+    .leftcover{
+      width: 5px;
+      height: 100px;
+      background: #d9d3c3;
+      position:absolute;
+    top:0px;
+      left:-5px;
+    }
+
+    .catbody {
+      width: 80px;
+      height: 80px;
+      background: #f7f0c8;
+      border-radius: 50%;
+      position:absolute;
+      top:155px;
+      left:450px;
+    }
+
+    .cathead {
+      width: 60px;
+      height: 60px;
+      background: #f7f0c8;
+      border-radius: 50%;
+      position:absolute;
+      top:120px;
+      left:460px;
+    }
+
+    .catcollar {
+      width: 60px;
+      height: 5px;
+      background: red;
+      position:absolute;
+    top:160px;
+      left:460px;
+    }
+  
+    .catarm{
+    width: 25px;
+    height: 60px;
+    background: #e3dcb8;
+    border-radius: 100px / 50px;
+    position:absolute;
+    top:140px;
+    left:465px;
+    }
+
+    .catear1 {
+      width: 20px;
+      height: 20px;
+      background: #e3dcb8;
+      border-radius: 50%;
+      position:absolute;
+      top:115px;
+      left:470px;
+    }
+
+    .catear2 {
+      width: 20px;
+      height: 20px;
+      background: #e3dcb8;
+      border-radius: 50%;
+      position:absolute;
+      top:113px;
+      left:490px;
+    }
+
+    .book2{
+      width: 175px;
+      height: 50px;
+      background: #2f7571;
+      position:absolute;
+      top:290px;
+      left:300px;
+    }
+
+    .book3{
+      width: 125px;
+      height: 25px;
+      background: #4a4a4a;
+      position:absolute;
+      top:280px;
+      left:300px;
+    }
+
+    .book2top{
+      width: 175px;
+      height: 15px;
+      background:#44a6a0;
+      position:absolute;
+      top:290px;
+      left:300px;
+    }
+
+    .vase {
+      width: 99px;
+      height: 100px;
+      background: #dedede;
+      border-radius: 100px / 50px;
+      position:absolute;
+      top:189px;
+      left:313px;
+    }
+
+    .vasecenter{
+      width: 40px;
+      height: 20px;
+      background: #adadad;
+      border-radius: 100px / 50px;
+      position:absolute;
+      top:195px;
+      left:343px;
+    }
+
+    .flowerstem1{
+      width: 8px;
+      height: 60px;
+      background:green;
+      position:absolute;
+      top:148px;
+      left:351px;
+    }
+
+    .flowerstem2{
+      width: 8px;
+      height: 70px;
+      background:green;
+      position:absolute;
+      top:137px;
+      left:368px;
+    }
+
+    .flower1 {
+      width: 20px;
+      height: 20px;
+      background: lightpink;
+      border-radius: 50%;
+      position:absolute;
+      top:140px;
+      left:345px;
+    }
+
+    .flower2 {
+      width: 22px;
+      height: 22px;
+      background: lightpink;
+      border-radius: 50%;
+      position:absolute;
+      top:117px;
+      left:360px;
+    }
+    
+    .camerabase{
+      width: 110px;
+      height: 80px;
+      background: #212121;
+      position:absolute;
+      top:360px;
+      left:250px;
+    }
+
+    .cameratop{
+      width: 118px;
+      height: 10px;
+      background:#616161;
+      position:absolute;
+      top:360px;
+      left:250px;
+    }
+
+    .cameraside{
+      width: 8px;
+      height: 80px;
+      background:#4a4a4a;
+      position:absolute;
+      top:360px;
+      left:360px;
+    }
+
+    .cameralense {
+      width: 55px;
+      height: 55px;
+      background: black;
+      border-radius: 50%;
+      position:absolute;
+      top:378px;
+      left:278px;
+    }
+
+    .cameraglass {
+      width: 45px;
+      height: 45px;
+      background: #2e2e2e;
+      border-radius: 50%;
+      position:absolute;
+      top:382px;
+      left:283px;
+    }
+
+    .camerabutton{
+      width: 20px;
+      height: 10px;
+      background:black;
+      position:absolute;
+      top:356px;
+      left:330px;
+    }
+
+
+  
+    
   
 
