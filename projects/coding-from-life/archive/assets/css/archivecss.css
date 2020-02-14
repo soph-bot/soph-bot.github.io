@@ -1,0 +1,16 @@
+body{
+	background-color: #ffe5e5;
+}
+
+.text{
+	color: #404040;
+	font-family:georgia;
+	font-size: 15px;
+	position:absolute;
+	top:320px;
+	left:440px;
+}
+
+a {
+  color: #3b3938;
+}
