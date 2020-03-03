@@ -1,0 +1,53 @@
+body {
+  background-color:lightpink;
+  display: flex;
+}
+
+.poster-content {
+  margin: auto;
+ margin-left: 50px;
+}
+
+.item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.row {
+  display: flex;
+
+}
+
+.col {
+  display:center;
+}
+
+
+.col-4 {
+  display:flex;
+  font-size: 50px;
+  font-family: georgia;
+  margin-right: 15px;
+  margin-top: 18px;
+}
+
+.col-5 {
+  display:flex;
+  font-size: 80px;
+  font-family:Leckerli One;
+  margin-right:100px;
+}
+
+/* For codepen example */
+
+.row {
+  margin-bottom: 30px;
+  margin-left: 100px;
+}
+
+.col {
+  border: 1px;
+  height: 50px;
+
+}
+
