@@ -1,53 +1,50 @@
 body {
-  background-color:lightpink;
+  background-color:#edc4c2;
   display: flex;
 }
 
 .poster-content {
   margin: auto;
  margin-left: 50px;
-}
-
-.item {
-  margin-top: 10px;
+ margin-top:100px;
+ margin-right:50px;
+ margin-top: 10px;
   margin-bottom: 10px;
 }
 
+.item {
+}
+
 .row {
+	margin-top:225px;
   display: flex;
+  margin-left:200px;
+  margin-bottom: 30px;
+  margin-left: 100px;
 
 }
 
 .col {
   display:center;
+  border: 1px;
+  height: 50px;
 }
 
 
-.col-4 {
+.smalltitle {
   display:flex;
-  font-size: 50px;
   font-family: georgia;
-  margin-right: 15px;
-  margin-top: 18px;
+  margin-right: 30px;
+  margin-top: 75px;
 }
 
-.col-5 {
+.title {
   display:flex;
-  font-size: 80px;
   font-family:Leckerli One;
   margin-right:100px;
 }
 
 /* For codepen example */
 
-.row {
-  margin-bottom: 30px;
-  margin-left: 100px;
-}
 
-.col {
-  border: 1px;
-  height: 50px;
-
-}
 
