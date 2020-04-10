@@ -1,0 +1,42 @@
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body {
+	background-color:black;
+}
+.title{
+font-family: 'Playfair Display', serif;
+color:white;
+font-size:30px;
+}
+
+.smalltitle{
+font-family: 'Nanum Gothic', sans-serif;
+color:white;
+font-size:25px;
+}
+
+.top {
+	position:relative;
+	width:400px;
+	height:700;
+	margin:10px auto;
+}
+.wrapper {
+	font-family: 'Nanum Gothic', sans-serif;
+	position:relative;
+	width:299px;
+	margin:-15px auto;
+	z-index:1;
+	background:white;
+	padding:50px;
+	box-shadow:0 10px 30px rgba(0,0,0,.1);
+	opacity:100%;
+}
+
+.img {
+	max-height:20px;
+	max-width:auto;
+}

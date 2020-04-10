@@ -123,15 +123,3 @@
 	max-height:20px;
 	max-width:auto;
 }
-
-@media print {
-
-header:before {
-display: block;
-content: "mother pigeon";
-margin-bottom: 10px;
-border: 1px solid #bbb;
-padding: 3px 5px;
-font-style: italic;
-}
-}
