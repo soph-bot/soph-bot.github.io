@@ -1,0 +1,26 @@
+body{
+  background: #bf9faa;
+}
+
+#square {
+      width: 100px;
+      height: 100px;
+      background: red;
+    }
+.box {
+  transition: box-shadow .2s;
+  width: 300px;
+  height: 300px;
+  margin: 50px;
+  border-radius:60px;
+  border: 0px solid #ccc;
+  background: #4f3840;
+  float: left;
+  
+}
+.box:hover {
+  box-shadow: 0 0 90px; 
+  opacity:90;
+  color:#ffffff;
+}
+
