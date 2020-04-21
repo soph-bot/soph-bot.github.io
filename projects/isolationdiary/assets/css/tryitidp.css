@@ -1,0 +1,51 @@
+body{
+	background-color:#f9f9f7;
+}
+
+.titletwo {
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.5vw;
+	color:#657a62;
+	position: absolute;
+  top: 20.2vw;
+  left: 46vw;
+}
+
+.gif{
+	position: absolute;
+  top: 13vw;
+  left: 16vw;
+}
+
+.growinggif{
+	max-width: 90%;
+    height: auto;
+}
+
+.sproutone{
+	position: absolute;
+  top: 0.5vw;
+  left: 94.5vw;
+  max-width: 5%;
+    height: auto;
+}
+
+.titlethree {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1vw;
+	color:#657a62;
+	position: absolute;
+  top: 2vw;
+  left: 93.5vw;}
+
+.titlefour {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: .8vw;
+	color:#657a62;
+	position: absolute;
+  top:51vw;
+  left: 4vw;}
+
+  a {
+  color: #657a62;
+}

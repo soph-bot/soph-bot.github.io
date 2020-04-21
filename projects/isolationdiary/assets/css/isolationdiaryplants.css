@@ -1,0 +1,43 @@
+body{
+	background-color:#dae8d8;
+}
+
+.title {
+	font-family: 'Indie Flower', cursive;
+	font-size: 5vw;
+	color:#657a62;
+	text-align:center;
+}
+
+.sprouts{
+	position: absolute;
+  top: 27vw;
+  left: 19.3vw;
+}
+
+.sproutone{
+	max-width: 22%;
+    height: auto;
+}
+
+.sprouttwo{
+	max-width: 22%;
+    height: auto;
+}
+
+.sproutthree{
+	max-width: 22%;
+    height: auto;
+}
+
+
+.explanation{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:2vw;
+	color:#657a62;
+text-align:center;
+}
+
+a {
+  color: #657a62;
+}
