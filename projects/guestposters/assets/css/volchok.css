@@ -1,0 +1,66 @@
+.bigtext{
+	font-size: 70px;
+	font-family: 'Baloo Tamma 2', cursive;
+	color:#ff7a7b;
+     margin: 21vw 25vw;
+}
+
+.littletext{
+	font-size: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:gray;
+	margin: -16vw 25vw;
+}
+
+.rotate {
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.shape_three img:last-child{display:none}
+.shape_three:hover img:first-child{display:none}
+.shape_three:hover img:last-child{display:inline-block}
+
+.shape_one img:last-child{display:none}
+.shape_one:hover img:first-child{display:none}
+.shape_one:hover img:last-child{display:inline-block}
+
+
+.shape_two img:last-child{display:none}
+.shape_two:hover img:first-child{display:none}
+.shape_two:hover img:last-child{display:inline-block}
+
+.shape_three img:last-child{display:none}
+.shape_three:hover img:first-child{display:none}
+.shape_three:hover img:last-child{display:inline-block}
+
+.shapes{
+	position:absolute;
+    top:8vw;
+    left:5vw;
+}
+
+
+ .gallery {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 5vw);
+    grid-gap: 15px;
+    margin-left: 4px;
+    margin-right:50px;
+	margin-top:50px;
+	margin-bottom:50px;}
+
+	.gallery__img {
+    width: 175%;
+    height: 175%;
+    object-fit: cover;
+}
